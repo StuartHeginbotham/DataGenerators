@@ -1,5 +1,5 @@
 # DataGenerators
-Exploration code in anacdonda for python scripts to generate basic retail transaction test data
+Exploration code in anaconda for python scripts to generate basic retail transaction test data
 
 Define:
   Start Date
